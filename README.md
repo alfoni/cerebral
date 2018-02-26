@@ -1,6 +1,8 @@
 # Cerebral
 A declarative state and side effects management solution for popular JavaScript frameworks
 
+BAAAAAH
+
 [![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
 [![Coverage Status][coverage-image]][coverage-url]
